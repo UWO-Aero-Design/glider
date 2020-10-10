@@ -2,9 +2,11 @@
 
 #pragma once
 
-//All the includes for each sub class ie. sensors and servo classes etc
 
-
-
+#include "AUTOPILOT.hpp"
+#include "IMU.hpp"
+#include "SERVO.hpp"
+#include "GPS.hpp"
 
 //Constants here
+const int tracker = 0;
