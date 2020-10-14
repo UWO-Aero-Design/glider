@@ -34,7 +34,7 @@ class CONTROL_OUTPUT {
       aileron.write(autopilot.aileron_target);
       elevator.write(autopilot.elevator_target);
       rudder.write(autopilot.rudder_target);
-      
+
     }
 
   private:
