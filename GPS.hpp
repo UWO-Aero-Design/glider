@@ -4,6 +4,9 @@ class GPS {
   public:
 
 
+    float lattitude = 0;
+    float longitude = 0;
+
     GPS(){
 
     }

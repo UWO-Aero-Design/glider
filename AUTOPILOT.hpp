@@ -12,6 +12,7 @@ class AUTOPILOT {
     int rudder_target = 0;
 
 
+
     AUTOPILOT(){
 
     }
@@ -30,6 +31,8 @@ class AUTOPILOT {
       //What is the aircraft's O&P now
 
       //Determine new outputs to make it to goal
+
+
 
       //Constrain the values and make sure they are within the servo parameters
       //Set the latest targets to the member variables

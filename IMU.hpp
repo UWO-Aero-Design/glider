@@ -1,9 +1,12 @@
 #pragma once
+#include "config.hpp"
 
 class IMU {
+  
   public:
 
     //Declare the outputs here
+
 
 
     IMU(){
@@ -19,13 +22,24 @@ class IMU {
 
 
 
+
     }
 
 
     bool update(){
 
 
+      //Code to refresh IMU
+
+
+
     }
+
+
+
+
+
+
 
   private:
 
