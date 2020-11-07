@@ -2,10 +2,12 @@
 #include "config.hpp"
 
 class IMU {
-  
+
   public:
 
-    //Declare the outputs here
+    int heading = 0;
+    float acceleration = 0;
+
 
 
 
@@ -29,7 +31,7 @@ class IMU {
     bool update(){
 
 
-      //Code to refresh IMU
+      //Code to refresh IMU variables
 
 
 

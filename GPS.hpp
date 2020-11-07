@@ -1,8 +1,9 @@
 #pragma once
+#include "config.hpp"
 
 class GPS {
+  
   public:
-
 
     float lattitude = 0;
     float longitude = 0;

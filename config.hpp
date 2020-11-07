@@ -3,6 +3,11 @@
 
 //Constants--------------
 
+//Target GPS coordinates
+const float target_lat = 43.005482;
+const float target_long = -81.271671;
+
+
 //Serial Constants
 const int serial_baud_rate = 9600;
 

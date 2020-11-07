@@ -30,7 +30,18 @@ class AUTOPILOT {
     bool update(IMU imu, GPS gps){
       //What is the aircraft's O&P now
 
-      //Determine new outputs to make it to goal
+      //Get distance from target to glider
+
+      //Get bearing to target
+
+
+      //gps.longitude
+      //gps.lattitude
+      //imu.heading
+      //imu.acceleration
+
+
+      //Determine new outputs to point aircraft at target
 
 
 
