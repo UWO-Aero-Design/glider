@@ -2,7 +2,7 @@
 #include "config.hpp"
 
 class GPS {
-  
+
   public:
 
     float lattitude = 0;

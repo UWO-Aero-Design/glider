@@ -12,6 +12,8 @@ CONTROL_OUTPUT control_output;
 IMU imu;
 GPS gps;
 
+//Global timer initialisatoin
+unsigned long start_time = millis();
 
 void setup() {
 
