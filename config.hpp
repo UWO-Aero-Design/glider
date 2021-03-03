@@ -22,3 +22,7 @@ const int rudder_pin = 7;
 //Maximum servo outputs
 const int servo_upper_limit = 140;
 const int servo_lower_limit = 40;
+
+//IMU constants
+const int DEFAULT_BAUD = 112500;
+const int IMU_IRQ_PIN = 36;
